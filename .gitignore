@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.npm-cache/
+.env
+.env.*
+!.env.example
+backup*/
+*.zip
+*.pem
+*.key
+scripts/
+.env.local
+*.log
